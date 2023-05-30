@@ -4,3 +4,5 @@ github.com/coopers/greetings v0.0.0-20230530192116-2dfa665be4b5 h1:VNpaXVlckCQ9Y
 github.com/coopers/greetings v0.0.0-20230530192116-2dfa665be4b5/go.mod h1:pQjih6verp6iqedEleU1p9yr7RmoOuV5VK+98j/0rEA=
 github.com/coopers/greetings v0.0.0-20230530193420-d444087e235b h1:dxwvxZINtvk+oANJ5F6NDcAAGRF7xO7rSABCX7SwHFE=
 github.com/coopers/greetings v0.0.0-20230530193420-d444087e235b/go.mod h1:pQjih6verp6iqedEleU1p9yr7RmoOuV5VK+98j/0rEA=
+github.com/coopers/greetings v0.0.0-20230530194530-278a881bbb0f h1:276sp0aDhGC+xnbzXeyijx9RoOa4pVqX54slf26GnsA=
+github.com/coopers/greetings v0.0.0-20230530194530-278a881bbb0f/go.mod h1:pQjih6verp6iqedEleU1p9yr7RmoOuV5VK+98j/0rEA=
